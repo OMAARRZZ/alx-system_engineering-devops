@@ -1,1 +1,1 @@
-New project for alx program
+New script projects for alx
